@@ -1,0 +1,23 @@
+html{
+    background-color: aquamarine;
+}
+h1{
+    color: rgb(251, 255, 24);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    text-align: center;
+}
+table{
+    border: 2px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#test {
+    background-color: orange;
+    font-style: italic;
+}
+div {
+    background-color: bisque;
+    color: royalblue;
+}
